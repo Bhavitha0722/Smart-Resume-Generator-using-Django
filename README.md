@@ -1,4 +1,4 @@
-# AI Career Coach using Traditional RAG
+🎯 AI Career Coach using Traditional RAG
 
 This project is an end-to-end **traditional RAG application** for AI School of India members.
 
